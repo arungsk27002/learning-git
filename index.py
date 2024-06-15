@@ -1,1 +1,1 @@
-print("Let's learn about branches in git and also let's resolve merge conflicts in git")
+print("Let's learn about branches in git and also resolve conflicts in git")
